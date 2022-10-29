@@ -1,2 +1,1 @@
-tao cung sua luon m lam j tao
 content of master_file
